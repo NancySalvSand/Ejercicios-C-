@@ -1,4 +1,4 @@
-# Ejercicios-C-
+# Ejercicios C#
 Ejercicios:  
 
 1. En una aplicación de consola, solicitar al usuario un número X, e imprimir en la consola los números pares antes del número que ingresó. ejemplo, si el usuario ingresa 10, el programa tiene que mostrar: 2, 4, 6, 8, 10.  
